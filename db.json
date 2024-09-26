@@ -1,0 +1,106 @@
+{  
+    "locations": [
+        
+      {
+        "id": 0,
+        "name": "Acme Fresh Start Housing",
+        "city": "Chicago",
+        "state": "IL",
+        "photo": "https://t4.ftcdn.net/jpg/01/51/05/91/360_F_151059133_EsoxbGtlmuMsz7K71wANCIc8VjM9cqqg.jpg",
+        "availableUnits": 4,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 1,
+        "name": "A113 Transitional Housing",
+        "city": "Santa Monica",
+        "state": "CA",
+        "photo": "https://as1.ftcdn.net/v2/jpg/02/33/59/42/1000_F_233594258_81s2Un5DEpmiHYxuOPAUfnrD0T9we5fd.jpg",
+        "availableUnits": 0,
+        "wifi": false,
+        "laundry": true
+      },
+      {
+        "id": 2,
+        "name": "Warm Beds Housing Support",
+        "city": "Juneau",
+        "state": "AK",
+        "photo": "https://as2.ftcdn.net/v2/jpg/02/20/75/73/1000_F_220757323_8wsMbBAFcNfTozQjz29CYcsB2rDTegRc.jpg",
+        "availableUnits": 1,
+        "wifi": false,
+        "laundry": false
+      },
+      {
+        "id": 3,
+        "name": "Homesteady Housing",
+        "city": "Chicago",
+        "state": "IL",
+        "photo": "https://t4.ftcdn.net/jpg/05/83/50/73/240_F_583507322_Q2TJwdPVfi5WqtzGmiCBTtPK0ZUx36Wv.jpg",
+        "availableUnits": 1,
+        "wifi": true,
+        "laundry": false
+      },
+      {
+        "id": 4,
+        "name": "Happy Homes Group",
+        "city": "Gary",
+        "state": "IN",
+        "photo": "https://t4.ftcdn.net/jpg/06/09/13/87/240_F_609138703_njZANZWAnLs56G8pSpJAsKlmiLKsEWmg.jpg",
+        "availableUnits": 1,
+        "wifi": true,
+        "laundry": false
+      },
+      {
+        "id": 5,
+        "name": "Hopeful Apartment Group",
+        "city": "Oakland",
+        "state": "CA",
+        "photo": "https://t4.ftcdn.net/jpg/06/03/48/93/240_F_603489302_dz3OTvERf1FGrbH5Z4KyQFUscv5z7DYi.jpg",
+        "availableUnits": 2,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 6,
+        "name": "Seriously Safe Towns",
+        "city": "Oakland",
+        "state": "CA",
+        "photo": "https://t3.ftcdn.net/jpg/08/02/08/20/240_F_802082038_V53qtEgPVAavR7sQ6kb2dWy9K1sdcGtg.jpg",
+        "availableUnits": 5,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 7,
+        "name": "Hopeful Housing Solutions",
+        "city": "Oakland",
+        "state": "CA",
+        "photo": "https://t3.ftcdn.net/jpg/01/85/53/08/240_F_185530861_EMFfT3pBVMLWjIPY7qfIkisqGZHZruBw.jpg",
+        "availableUnits": 2,
+        "wifi": true,
+        "laundry": true
+      },
+      {
+        "id": 8,
+        "name": "Seriously Safe Towns",
+        "city": "Oakland",
+        "state": "CA",
+        "photo": "https://t3.ftcdn.net/jpg/01/18/43/18/240_F_118431846_h9JWXhuFaXSHQMldqfiK4T7vvLtfEQHm.jpg",
+        "availableUnits": 10,
+        "wifi": false,
+        "laundry": false
+      },
+      {
+        "id": 9,
+        "name": "Capital Safe Towns",
+        "city": "Portland",
+        "state": "OR",
+        "photo": "https://t3.ftcdn.net/jpg/02/53/33/70/240_F_253337010_U8o7F0r6hQkVo1FIoN3R3EgBe1rltxyE.jpg",
+        "availableUnits": 6,
+        "wifi": true,
+        "laundry": true
+      }
+    ]
+  }
+  
